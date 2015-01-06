@@ -10,7 +10,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 ####聚合&&周报订阅
-|名称 |订阅地址 | 介绍 | 
+|名称 |订阅地址 | 介绍 |
 | ----- | ----- | ------ |
 |Html5 Weekly|http://html5weekly.com/| Html 技术类|
 |CSS Weekly|http://css-weekly.com/| |
@@ -24,6 +24,11 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
 |Design News|https://news.layervault.com/|F2类资讯聚合|
 |HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
+|前端资源分享 半月刊|http://www.hacke2.cn/monthly/|每半月发布最新高质量的前端资源|
+|中文推送|||
+|SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
+|FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
+|EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
 
 
 
@@ -46,6 +51,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
+
 ######国外博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
@@ -61,6 +67,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Paul Irish](http://www.paulirish.com/)|★★★★★|★★★★★| Paul Irish|大神,Google Chrome团队,Yeoman|
 |[Krasimir Tsonev](http://krasimirtsonev.com/blog)|★★★★★|★★★★★| Krasimir Tsonev|html5,ccs3,javascript|
 |[hakim](http://hakim.se/)|★★★★★|★★★★★| HAKIM EL HATTAB|ccs3,javascript|
+|[DailyJS](http://dailyjs.com/) | ★★★★★ | ★★★★★ | # | javascript |
 
 #####活跃微博
 |ID |公司 | 简介 |
@@ -104,8 +111,10 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | smallni |http://www.smallni.com/|[#](http://weibo.com/hzlzh)|[@Smallni](https://twitter.com/smallniding/)|[#](http://github.com/hzlzh)| 腾讯|前端开发|
 | TQ |http://targetkiller.net/|[@Piser-TQ](http://weibo.com/targetkiller)|[@tqtan](https://twitter.com/tqtan/)|[@targetkiller](https://github.com/targetkiller)| 腾讯 ISUX | 网页重构|
 |LOO2K|[LOO2K](http://loo2k.com/blog/)|[@LOO2K](http://weibo.com/loo2k)|[LOO2K](https://github.com/loo2k)|[LOO2K](https://twitter.com/loo2k/)|墨筹网|少年才俊|
-|qiqiboy|#|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|金山网络 UX|吐槽清理大师开发者|
+|qiqiboy|[qiqiboy](http://www.qiqiboy.com/)|[@qiqiboy](http://weibo.com/qiqiboy)|#|#|金山网络 UX|吐槽清理大师开发者|
 |foru17|[罗磊的独立博客](http://luolei.org)|[@罗罗磊磊](http://weibo.com/foru17)|[@foru17](https://github.com/foru17)|[@foru17](https://twitter.com/foru17)|金山网络 UX|打酱油的|
+| 余弦 | [EVILCOS](http://evilcos.me/) | [余弦](http://weibo.com/evilcos) | [evilcos](https://github.com/evilcos) | # | [知道创宇](http://www.knownsec.com/) | 安全（黑客）、架构、团队的各种观点与分享 | # | [冯大辉](http://dbanotes.net/) | 现在就职于丁香园 (http://dxy.cn) ，担任技术团队负责人.
+|汤姆大叔|[汤姆大叔的博客](http://www.cnblogs.com/TomXu/)|#|#|#|#|《深入理解Bootstrap》、《JavaScript启示录》、《JavaScript设计模式》等多本前端书籍翻译作者|
 
 ####一些社区
 
@@ -115,6 +124,8 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Ruby|http://ruby-china.org/|同 V2EX 氛围类似，不局限于Ruby|
 |Node.js 中文社区|http://cnodejs.org/|Node.js 国内最活跃的社区|
 |Code Wall|https://coderwall.com/|国外技术社区|
+|前端乱炖|http://www.html-js.com/|国内前端技术社区|
+| DIV.IO | http://div.io/ | 国内前端技术社区 |
 
 
 #####企业官方博客
@@ -133,6 +144,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
 | [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介 |[@Alibaba-UED](http://weibo.com/aliued)|
+|[淘宝UED](http://ued.taobao.org/blog/)|淘宝网|UED|★★★★☆|用户体验、交互设计、视觉设计、前端技术博客|[@淘宝UED](http://weibo.com/taobaoued)|
 
 
 ##书籍
@@ -147,8 +159,15 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[Node.js开发指南](http://book.douban.com/subject/10789820/)| 郭家寶  |RMB 45.00|#|作者很牛|
 |[JavaScript高级程序设计](http://book.douban.com/subject/10546125/)| Nicholas C. Zakas   |RMB 99.00|人民邮电出版社|适合没事就翻翻|
 |[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
+|[JavaScript DOM编程艺术](http://book.douban.com/subject/6038371/)|Jeremy Keith /Jeffrey Sambells|RMB 49.00|人民邮电出版社|适合Javascript入门看|
+|[深入浅出node.js](http://book.douban.com/subject/25768396/)|朴灵|RMB 69.00|人民邮电出版社|一本从前端通往全端的好书|
+|[CSS开发王](http://book.douban.com/subject/3137282/)|张亚飞|RMB 49.00|电子工业出版社|适合有一定基础后CSS进阶用|
+####线上的一些翻译版好书
 
-
+|书名|地址|作者|译者|介绍|
+|----|----|----|----|----|
+|JavaScript秘密花园|http://bonsaiden.github.io/JavaScript-Garden/zh/|伊沃·韦特泽尔&张易江|[三生石上](http://sanshi.me/)|完整书籍，界面美观，有详细demo|
+| Material Design 中文版 | http://design.1sters.com/ | Google设计手册 | 协同翻译 | Google I/O 2014 发布的 Material Design 官方手册的中文翻译 |
 
 ##关于
 ======
